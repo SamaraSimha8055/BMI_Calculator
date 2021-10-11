@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="str_weight">Weight in KG</string>
+    <string name="str_height">Height in meter</string>
+    <string name="str_button">calculate</string>
+    <string name="str_image_desc">appropriate image according to BMI calculate</string>
+</resources>
